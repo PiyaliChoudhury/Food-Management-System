@@ -1,4 +1,4 @@
-# food-donate
+# Food waste management system
 
 <p>  The basic concept of this project  Food Waste Management is to collect theexcess/leftover food from donors such as hotels, restaurants, marriage halls, etc and distribute to  the  needy people .</p>
 <h3>features:</h3>
